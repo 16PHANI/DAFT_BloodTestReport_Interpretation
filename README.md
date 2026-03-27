@@ -213,7 +213,7 @@ This repository includes the final published version of our paper:
 **Title:** Domain-Adaptive Fine-Tuning of Lightweight Large Language Models for Personalized Blood Test Report Interpretation  
 **Authors:** G. Jahnavi Durga, B. Phani Shankar, Abdul Ahad, A. Siddarth Chowdary, K. Nandini  
 **Published in:** 14th International Conference on Contemporary Engineering and Technology (ICCET), 2026  
-**Paper:** [View Paper](docs/Research_Paper.pdf)
+**Paper:** [View Paper](docs/Research_Paper.docx)
 
 ---
 
@@ -225,7 +225,7 @@ Held during **22nd & 23rd March 2026** at
 Prince Shri Venkateshwara Padmavathy Engineering College, Chennai, India
 
 - **Paper ID:** ICCET264075  
-- **Certificate:** [View Certificate](docs/conference_certificate.pdf)
+- **Certificate:** [View Certificate](docs/conference_certificate.jpg)
 
 ---
 
