@@ -156,7 +156,7 @@ Visit **[healthexplain.netlify.app](https://healthexplain.netlify.app/)** to try
 
     cd backend
     pip install -r requirements.txt
-    python [main.py](http://_vscodecontentref_/3)
+    python [main.py]
 
 # Frontend - Blood Test Report Interpretation UI
 
@@ -206,21 +206,54 @@ Development Server
 
     npm start
 
+## 📄 Published Paper
+
+This repository includes the final published version of our paper:
+
+**Title:** Domain-Adaptive Fine-Tuning of Lightweight Large Language Models for Personalized Blood Test Report Interpretation  
+**Authors:** G. Jahnavi Durga, B. Phani Shankar, Abdul Ahad, A. Siddarth Chowdary, K. Nandini  
+**Published in:** 14th International Conference on Contemporary Engineering and Technology (ICCET), 2026  
+**Paper:** [View Paper](docs/Research_Paper.pdf)
+
+---
+
+## 🏆 Conference Details
+
+**14th International Conference on Contemporary Engineering and Technology (ICCET) 2026**  
+
+Held during **22nd & 23rd March 2026** at 
+Prince Shri Venkateshwara Padmavathy Engineering College, Chennai, India
+
+- **Paper ID:** ICCET264075  
+- **Certificate:** [View Certificate](docs/conference_certificate.pdf)
+
+---
+
 ### 🙏 Acknowledgments
-- TinyLLaMA team for the base model
-- Hugging Face for infrastructure and PEFT library
-- Medical professionals who contributed to dataset validation
-- Open-source community for tools and frameworks
+
+- TinyLLaMA team for the base model  
+- Hugging Face for infrastructure and PEFT library  
+- Medical professionals who contributed to dataset validation  
+- Open-source community for tools and frameworks  
+
+---
 
 ### ⚠️ Disclaimer
+
 This system is NOT a substitute for professional medical advice, diagnosis, or treatment. Always consult qualified healthcare providers for medical decisions. The system is designed as an educational assistive tool to improve health literacy.
 
-### 👥 Authors
-- G. Jahnavi Durga - Research Scholar
-- B. Phani Shankar - Research Scholar
-- Abdul Ahad - Research Scholar
-- A. Siddarth Chowdary - Research Scholar
-- K. Nandini - Professor, Department of CSE
-- Seshadri Rao Gudlavalleru Engineering College, Andhra Pradesh, India
+---
 
-🙋‍♀️Author--> Boyinapalli Phani Shankar, Feel free to connect or contribute!
+### 👥 Authors
+
+- G. Jahnavi Durga - Research Scholar  
+- B. Phani Shankar - Research Scholar  
+- Abdul Ahad - Research Scholar  
+- A. Siddarth Chowdary - Research Scholar  
+- K. Nandini - Professor, Department of CSE  
+
+**Affiliation:** Seshadri Rao Gudlavalleru Engineering College, Andhra Pradesh, India  
+
+---
+
+🙋‍♀️ **Corresponding Author:** Boyinapalli Phani Shankar - feel free to connect or contribute!
